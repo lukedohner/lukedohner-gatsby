@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ldwebsite",
+  "private_key_id": "9db8552a1d57963e3cee2b6ca41ba051be96ab5b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChqICoJjcR0HTX\nGa8Bv3CKQWqlgXU9ddlhS+aVVcB27/mRs9I4b7tFLXoJAqVOiw6UX2XAvFLS9yah\nBCKvVVsVXcSOfOMXKW1G0huo6QQEhq4FM97BDP2+GAx0H2ccEOAiSxpYxfBLmt8S\nEhhtvZJDc0LmEz8822Ewb8RO1AAW1qLNgDUvwNUI9irvbLsQrOjiM5o0N9OgMTMo\nDxd9DPzKRSqeOi37skpuCSxa+3bI8UCQCAJv0ZMnTtN+rrzdT2UuuSgNnsA71EU6\nzI69FKpB+T2YekeJfzOV6I/afrpcmCWGdkxs0ZqdqDAT33nlzaw7tmZVR2tV485f\nFZLmAtqxAgMBAAECggEABvMAptnPs7kXkLiWrJdPbe4OeNNmGBCFGfjijmhbh/Fc\nc948SvdIoFpqXNFLjGMPayLns5+U2uNLeo/8MrfTXMmFXc+yDmiWPT1ieYIczVoB\nyJD4gil+DeooPOStsMfr7qV2WjsWD5X2gWccPDlyPGqLxWqt5P6UQLoJQQ89er3J\nRGrWBzccsHl1C6zaAiW2bbq4Hlb0k5KPsBO3bWB23pOXuiVyI8/S5CBqb9vsNSeO\nr5GO3usZ+DBgmyZAe6TqJ+wS3wn4DG+W4sY27mbNw3ytPW2zxv230T60zIceQFuf\nLSSyVC00DfBtpIKVaqUmYSXDw4iEbmJrMQTmK3mXAQKBgQDaf+hiTCBgdWhjBlU9\n0ZZay71WXlVjkppsftopQwryuZ889KW/edJ/P7oVvnC+vuTz/JFqe2gKvoeXVHOf\n3WsVvE3J/FCwJfDIPxZOYUNE4pM7uiAFduqBp1+qBn44qn05R8GnRGGVGy+ad1Gw\nmHcTT9TfD2fK85EJJs6n9K0zcQKBgQC9Zy+aLrHAd3ZKHQhXyTBDlKR8ThjgLr5Z\nMm1h5N+w9um7+x5pn1d427oOy2XAgXiPoC94uIJw6oHgFvrJ9HlxslMfz/B7l4Xo\n21qALvPvDs2lLEFLwVg3ca3PKGdj3sdX2to4zvlwhHLxcKTIZTU/DEM4as8Ro2BT\nXe8Tb6n7QQKBgGv851cdlKrXm/3E9YAWA59gLnVvLfiGTjftAdl+vvxzbRXtO7XE\neZpWXpu8gXBkXDeRzjS4RRV6UP0jyflqrzAQ3slDIIXOWpA9TcLzIxH6gRX1yTmq\nKgBmPkuD5gIPkNAsfLM0gp30z7Qh4IfM8pziyaxsqrmNY1MIkP5FWQyhAoGAFSnh\nhM3w6LuwiQmDdCOz8+k5E/a6CtrORDNBS64CXMjKR0oBFPZMFOIggSSzIvaUnR/e\nDhQ35xwdFQgcT9K0e0LczPI0QesleGaCT05vzWePDQTL6wYYsGFQdZRjMSKkjamT\ntsNR1gPGwDnA/+9nKrtZC4XLy4HA8q/NVhOlH8ECgYEAr3vcWEsiT9dXQLsIIXxA\nR848Xe6s9eH7bAl0+Q8Hhx6JY6mlNvrWPPQ9GGb5R0v988bvPkIFyp91Uo6GapN6\nQ4/LUTIRn1uoSjwWlKhsF4V5zGFW0iWDPOlAsUuQICUcgUklaMJsHBAzpXIZZy1f\n1E2tbdU1TxsS1zTJ2h95svI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gatsby-portfolio@ldwebsite.iam.gserviceaccount.com",
+  "client_id": "117029520934569949199",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gatsby-portfolio%40ldwebsite.iam.gserviceaccount.com"
+}
